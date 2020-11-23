@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "caminito"
+  "defaultProject": "caminito",
+  "cli": {
+    "analytics": false
+  }
 }
